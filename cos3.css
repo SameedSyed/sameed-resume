@@ -1,0 +1,18 @@
+#blog{
+  text-align: center;
+}
+.fs{
+  font-size:small;
+}
+body{
+  background-color:#FAEBD7;
+  padding:20px;
+}
+.lin{
+  text-decoration:none;
+  color:white;
+   background-color: #8845f4;
+   padding: 13px 42px 13px 42px;
+   border-radius: 20px;
+}
+<!-- jumpsuit-->
